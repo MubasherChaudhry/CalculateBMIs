@@ -15,3 +15,4 @@ const heightMobi = 1.88;
 const BMIMack= massMack/heightMack**2
 const BMIMobi= massMobi/heightMobi**2
 
+console.log(BMIMack, BMIMobi);
